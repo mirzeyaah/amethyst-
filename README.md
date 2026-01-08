@@ -1,0 +1,3 @@
+## README
+
+This project was developed by a group consisting of **Abdurrehman (BAI251041)**, **Muhammad Anas (BAI251088)**, **Mirza Abbas (BAI251079)**, **Roumaan Khan (BAI251051)**, and **Abdullah Gillani (BAI251067)**. The project introduces **AMETHYST**, an AI-powered chatbot designed and generated collaboratively by the group members. AMETHYST is built to simulate intelligent conversational behavior and demonstrate the team’s understanding of chatbot development and artificial intelligence concepts. The actual implementation of the chatbot can be found in the **`src`** folder, where it is available under the name **`amethyst`**.
